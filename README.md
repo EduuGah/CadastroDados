@@ -31,7 +31,7 @@ Este sistema segue os princípios da LGPD:
 
 1. Execute o script:
    ```bash
-   python seu_arquivo.py
+   python Dados.py
    ```
 
 2. Escolha as opções do menu:
